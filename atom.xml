@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://todopai.github.io</id>
+    <title>实干派</title>
+    <updated>2024-07-11T21:45:45.585Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://todopai.github.io"/>
+    <link rel="self" href="https://todopai.github.io/atom.xml"/>
+    <subtitle>以前总是想记录心中的想法，现在发现搞反了，记录自己的干了什么，歌颂自己干了什么可能更重要；实干才能正在提升认知，不然只能叫拾人牙慧，实干自然知行合一。</subtitle>
+    <logo>https://todopai.github.io/images/avatar.png</logo>
+    <icon>https://todopai.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 实干派</rights>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月11日]]></title>
+        <id>https://todopai.github.io/post/uHyForEY3/</id>
+        <link href="https://todopai.github.io/post/uHyForEY3/">
+        </link>
+        <updated>2024-07-11T21:22:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月10日]]></title>
+        <id>https://todopai.github.io/post/xHpr0VD7i/</id>
+        <link href="https://todopai.github.io/post/xHpr0VD7i/">
+        </link>
+        <updated>2024-07-10T13:37:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月9日]]></title>
+        <id>https://todopai.github.io/post/phl42FMF3/</id>
+        <link href="https://todopai.github.io/post/phl42FMF3/">
+        </link>
+        <updated>2024-07-09T14:35:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月8日]]></title>
+        <id>https://todopai.github.io/post/WjzxZPq5N/</id>
+        <link href="https://todopai.github.io/post/WjzxZPq5N/">
+        </link>
+        <updated>2024-07-08T03:48:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月7日]]></title>
+        <id>https://todopai.github.io/post/Tt1ofBcgt/</id>
+        <link href="https://todopai.github.io/post/Tt1ofBcgt/">
+        </link>
+        <updated>2024-07-07T14:09:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月6日]]></title>
+        <id>https://todopai.github.io/post/fDdGLXe5Q/</id>
+        <link href="https://todopai.github.io/post/fDdGLXe5Q/">
+        </link>
+        <updated>2024-07-06T02:29:12.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月5日]]></title>
+        <id>https://todopai.github.io/post/yOLxR7VP0/</id>
+        <link href="https://todopai.github.io/post/yOLxR7VP0/">
+        </link>
+        <updated>2024-07-06T02:26:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月4日]]></title>
+        <id>https://todopai.github.io/post/-wQYH0B9K/</id>
+        <link href="https://todopai.github.io/post/-wQYH0B9K/">
+        </link>
+        <updated>2024-07-06T02:25:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月3日]]></title>
+        <id>https://todopai.github.io/post/NvBotU8yu/</id>
+        <link href="https://todopai.github.io/post/NvBotU8yu/">
+        </link>
+        <updated>2024-07-03T02:00:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[务实笔记——2024年7月2日]]></title>
+        <id>https://todopai.github.io/post/UfyPEjm0r/</id>
+        <link href="https://todopai.github.io/post/UfyPEjm0r/">
+        </link>
+        <updated>2024-07-03T01:57:49.000Z</updated>
+    </entry>
+</feed>
